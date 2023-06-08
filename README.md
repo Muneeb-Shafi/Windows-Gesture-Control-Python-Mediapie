@@ -46,10 +46,10 @@ Toggle the gesture recognition service on/off by clicking the "Start the Camera 
 
 Perform the supported hand gestures in front of your camera, and the associated window actions will be executed accordingly.
 
-##Contributing
+## Contributing
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
 
-##License
+## License
 This project is licensed under the MIT License.
   
 
