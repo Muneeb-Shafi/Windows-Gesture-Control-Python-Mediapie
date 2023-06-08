@@ -40,7 +40,6 @@ Open a terminal or command prompt and navigate to the project directory.
 
 4.Run the Python script:
     
-    ```shell
     python gesture_control.py
     
     
