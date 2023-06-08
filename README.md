@@ -34,23 +34,22 @@ This Python application uses the Mediapipe library to detect various hand gestur
 
    ```shell
    pip install mediapipe opencv-python tkinter pyautogui
-   
 3.Usage
 Open a terminal or command prompt and navigate to the project directory.
 
 4.Run the Python script:
-    
-    python gesture_control.py
-    
-    
-The GUI window will appear, displaying the available gestures and their corresponding actions.
-
+   ```shell
+   pip install mediapipe opencv-python tkinter pyautogui 
+   ```
+   
 Toggle the gesture recognition service on/off by clicking the "Start the Camera Service" toggle button.
 
 Perform the supported hand gestures in front of your camera, and the associated window actions will be executed accordingly.
 
-## Contributing
+##Contributing
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
 
-## License
+##License
 This project is licensed under the MIT License.
+  
+
