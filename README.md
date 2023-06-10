@@ -29,7 +29,7 @@ This Python application uses the Mediapipe library to detect various hand gestur
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/your-username/gesture-control-app.git
+   git clone https://github.com/Muneeb-Shafi/Windows-Gesture-Control-Python-Mediapie
 2. Install the required dependencies:
 
    ```shell
