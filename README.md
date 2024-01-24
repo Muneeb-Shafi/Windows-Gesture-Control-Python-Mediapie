@@ -13,6 +13,7 @@ This Python application uses the Mediapipe library to detect various hand gestur
   - Open palm: Restore all windows
   - Victory sign: Close window
   - ILY (I Love You): Take a screenshot
+  - Take a new screenshot
 
 - Easy-to-use GUI interface to toggle the gesture recognition service
 

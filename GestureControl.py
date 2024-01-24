@@ -33,6 +33,9 @@ def action_trigger(captured_output):
     elif "ILoveYou" in captured_output:
         pyautogui.hotkey('win', 'printscreen')  # Simulate Win+PrtScn key combination
         paused_frames += 10
+    elif "IHateYou" in captured_output:
+        pyautogui.hotkey('win', 'printscreen')  # Simulate Win+PrtScn key combination
+        paused_frames += 10
     elif "Victory" in captured_output:
         pyautogui.hotkey('alt', 'f4')  # Simulate Win+M key combination to minimize all windows
         paused_frames += 10
@@ -77,6 +80,7 @@ with GestureRecognizer.create_from_options(options) as recognizer:
 
         if not ret:
             print("Ignoring empty frame")
+            print("Ignore the fork too")
             break
 
         timestamp += 1
